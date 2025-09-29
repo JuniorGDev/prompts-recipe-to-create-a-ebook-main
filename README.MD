@@ -46,7 +46,6 @@ ChatGPT：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
 
 ## 📚 Materiais
 
