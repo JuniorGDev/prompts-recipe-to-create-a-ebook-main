@@ -77,7 +77,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
         href="https://www.linkedin.com/in/geová-josé-da-silva-junior-27933342">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;</p>
+    &nbsp;</p>
 </p>
 <br/><br/>
 <p>
